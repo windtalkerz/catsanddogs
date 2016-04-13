@@ -9,5 +9,5 @@
 import Foundation
 
 class Person {
-    
+    var eyes = 2
 }
