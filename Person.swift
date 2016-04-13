@@ -10,4 +10,5 @@ import Foundation
 
 class Person {
     var legs = 2
+    var face = "pretty"
 }
