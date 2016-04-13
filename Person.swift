@@ -9,5 +9,5 @@
 import Foundation
 
 class Person {
-    
+    var arms = 2
 }
