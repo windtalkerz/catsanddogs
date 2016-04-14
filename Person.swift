@@ -14,3 +14,15 @@ class Person {
     var isSmphatic = true
     var face = "pretty"
 }
+
+struct Behavior {
+    func doGreeting() {
+        
+    }
+    func eat() {
+        
+    }
+    func sleep() {
+        
+    }
+}
