@@ -10,8 +10,6 @@ import Foundation
 
 class Person {
     var legs = 2
-    var arms = 2
-    var isSmphatic = true
     var face = "pretty"
 }
 
