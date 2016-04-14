@@ -9,6 +9,7 @@
 import Foundation
 
 class Person {
-    var legs = 4
+    var arms = 2
+    var legs = 2
     var face = "pretty"
 }
