@@ -15,5 +15,9 @@ class Cat {
     func sleep() {
         
     }
+    
+    func makeLittleKitten() {
+        print("miaou :-)")
+    }
 }
 
