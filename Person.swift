@@ -24,4 +24,7 @@ struct Behavior {
     func sleep() {
         
     }
+    func giggle() {
+        
+    }
 }
